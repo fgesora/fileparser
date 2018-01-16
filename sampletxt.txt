@@ -1,0 +1,2 @@
+Test text file
+Need to open file, read into memory and check how much memory it consumes when read
